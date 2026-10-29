@@ -4,7 +4,7 @@ EOSC-data-commons (abbr "EDC" below) is to support the establishment of EOSC as 
 Bring the AI-based analytics metadata warehousce and discovery service is one of the major goals of the project but in the development of the platform the AI usage requires clarification to assure the quality of the project and the code base maintained in the project.
 It comes with this AI / LLM policy to guide the usage of AI / LLM tools and models.
 
-The goals of the policy are following (with priorities from high to low):
+The goals of the policy are the following (with priorities from high to low):
 - Ensure the quality of infrastractures that running the platform, include the robustness and the maintainability.
 - Ensure the quality of code bases produced in the project.
 - Introduce a guideline that developers of the project can follow to minimize the confrontations between the teams.
