@@ -33,10 +33,10 @@ Following the open-source-ai-contribution-policies[1] dimensions:
 
 All contributions are subject to code reviews. Whenever a human reviews the code, we expect you to engange with reviewers and that you don't impose unfair load on them with low-quality code or code that you don't fully understand and can't explain to a reviewer.
 
-To avoid reviewers burden due to limited human cognitive load, we RECOMMEND:
+To avoid reviewers burden due to limited human cognitive load:
 - pull requests MUST have a single, clear scope 
-- not more than 2,000 lines of code change per pull request
-- not more than 10 files of changes per pull request
+- pull request SHOULD NOT have more than 2,000 lines of code change
+- pull request SHOULD NOT have more than 10 files of changes
 
 Those are no hard limits but any AI/LLMs generated contribution may be rejected if not within them.
 
