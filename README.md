@@ -1,8 +1,8 @@
 # EOSC-data-commons generative AI / LLM policy
 
-EOSC-data-commons (abbr "EDC" below) is to support the establishment of EOSC as a trusted European Research Commons.[1]
-Bring the AI-based analytics metadata warehousce and discovery service is one of the major goals of the project but in the development of the platform the AI usage requires clarification to assure the quality of the project and the code base maintained in the project.
-It comes with this AI / LLM policy to guide the usage of AI / LLM tools and models.
+EOSC Data Commons (abbr "EDC" below) is to support the establishment of EOSC as a trusted European Research Commons.[1]
+One of the major goals of the project is to provide an AI-based analytics metadata warehouse and discovery service. However, the AI usage in the development of the platform requires clarification to assure the quality of the project and the code base maintained in the project.
+This AI / LLM policy guides the usage of AI / LLM tools and models within the project development tasks.
 
 The goals of the policy are the following (with priorities from high to low):
 - Ensure the quality of infrastractures that running the platform, include the robustness and the maintainability.
@@ -15,7 +15,7 @@ The AI-policy from repositories can override items from this policy but if not m
 
 ## Dimensions
 
-We extend the details of classifiations columns from open-source-ai-contribution-policies[1] into detail list to fit EDC.
+We extend the details of classifiations columns from open-source-ai-contribution-policies[2] into detail list to fit EDC.
 The original dimentions are: 
 - AI/LLMs allowed?
 - Disclosure required?
@@ -51,7 +51,7 @@ Because of this, allowing contributions by LLMs has unpredictable consequences f
 
 ## References
 [1] https://www.eosc-data-commons.eu/about
-[1] https://github.com/melissawm/open-source-ai-contribution-policies
+[2] https://github.com/melissawm/open-source-ai-contribution-policies
 [1] https://forge.rust-lang.org/policies/llm-usage.html
 [1] https://github.com/pypa/pip/blob/main/AI_POLICY.md
 [1] https://docs.scipy.org/doc/scipy//dev/conduct/ai_policy.html
