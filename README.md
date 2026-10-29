@@ -40,7 +40,7 @@ By submitting a pull request, you certify that:
 - You are the author of the contribution or have the legal right to submit it.
 - You either hold the copyright to the changes or have explicit legal authorization to contribute them under this project's license.
 - You understand the code.
-- You accept full responsibility for it.
+- You accept full responsibility for AI-assisted coding.
 
 
 ## Legal
